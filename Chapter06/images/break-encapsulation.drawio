@@ -1,0 +1,114 @@
+<mxfile host="65bd71144e">
+    <diagram id="HpS2_yRny7pd-NUJc4vG" name="Page-1">
+        <mxGraphModel dx="507" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;strokeWidth=2;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="server.js" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="110" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="appPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="190" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="recipesPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="ordersPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="authPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="170" as="sourcePoint"/>
+                        <mxPoint x="210" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="3" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="192.53634593671927" y="258.91761317362375" as="sourcePoint"/>
+                        <mxPoint x="117.53311213594316" y="361.09121072371386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="3" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="202.53634593671927" y="268.91761317362375" as="sourcePoint"/>
+                        <mxPoint x="127.53311213594316" y="371.09121072371386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="330" y="220" as="sourcePoint"/>
+                        <mxPoint x="470" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;strokeWidth=2;" parent="1" source="17" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="604" y="180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="17" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="server.js" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="544" y="110" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="recipesPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="ordersPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="544" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="authPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="644" y="190" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="18" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="614" y="170" as="sourcePoint"/>
+                        <mxPoint x="614" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" parent="1" source="18" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="596.5363459367193" y="258.91761317362375" as="sourcePoint"/>
+                        <mxPoint x="521.5331121359432" y="361.09121072371386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="appPlugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" parent="1" vertex="1">
+                    <mxGeometry x="544" y="190" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="protectRoutes&lt;br&gt;Plugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="360" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" edge="1" parent="1" source="5" target="24">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="178.88100035285674" y="246.37466642430036" as="sourcePoint"/>
+                        <mxPoint x="110.93971611221957" y="293.5801965376943" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="protectRoutes&lt;br&gt;Plugin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="360" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeWidth=2;fontFamily=Tahoma;fontSize=16;endArrow=block;endFill=0;" edge="1" parent="1" target="27" source="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="474" y="330" as="sourcePoint"/>
+                        <mxPoint x="514.9397161122196" y="293.5801965376943" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
